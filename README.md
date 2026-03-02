@@ -3,7 +3,8 @@
 
 Inspired by J.A.R.V.I.S from Iron Man
 一个具备实时搜索、数据分析、邮件发送等能力的智能助手。
-<img width="1254" height="1285" alt="image" src="https://github.com/user-attachments/assets/4277ba2f-d32b-497c-9381-d7b71300cd3f" />
+<img width="2513" height="1307" alt="image" src="https://github.com/user-attachments/assets/affc0eac-a47d-4f00-8e65-15fec1bb606b" />
+
 
 
 # 🧠 Jarvis AI Assistant
