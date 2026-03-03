@@ -445,3 +445,4 @@ if __name__ == "__main__":
     with open('chu-star\\function_calling\\num_data.json', 'r', encoding='utf-8') as f:
         num_data = json.load(f)
     app.run(debug=True)
+
